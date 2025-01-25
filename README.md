@@ -15,3 +15,6 @@ python expanse_tracker.py [command] [options]
 ```
 ## Project URL
 https://roadmap.sh/projects/expense-tracker
+
+## Project URL
+https://roadmap.sh/projects/tmdb-cli
